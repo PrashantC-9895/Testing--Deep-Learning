@@ -11,8 +11,7 @@ https://www.kaggle.com/datasets/samuelcortinhas/cats-and-dogs-image-classificati
 
 
 
- Bike and Car CNN Classification 
- dataset limk: - https://www.kaggle.com/datasets/utkarshsaxenadn/car-vs-bike-classification-dataset/data
+ 
 
 
 
